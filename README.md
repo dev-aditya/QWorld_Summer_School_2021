@@ -1,5 +1,6 @@
 ## QWorld Quantum Summer School 2021
-*This is a personal fork of QWorld Summer School Repository*
+***This is a personal fork of QWorld Summer School 2021 Repository.
+Original Repository can be found [here](https://gitlab.com/qworld/qeducation/qeducation-coordinators/summer-school-2021)***
 
 Welcome to QWorld Quantum Summer School 2021!
 
