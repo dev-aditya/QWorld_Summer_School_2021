@@ -1,0 +1,7 @@
+numpy
+matplotlib
+jupyter
+jupyterlab
+qiskit[visualization]
+qutip
+cirq
