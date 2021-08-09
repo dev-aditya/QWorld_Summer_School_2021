@@ -1,5 +1,6 @@
 ## QWorld Quantum Summer School 2021
- 
+*This is a personal fork of QWorld Summer School Repository*
+
 Welcome to QWorld Quantum Summer School 2021!
 
 The summer school will be held between July 26 - August 6. The material used in the summer school consists of QWorld's introductory Bronze-Qiskit material on quantum programming and computing and intermediate level tutorial Silver, that focuses on complex numbers, QFT and Shor's Algorithm 
