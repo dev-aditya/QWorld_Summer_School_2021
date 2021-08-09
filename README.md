@@ -2,6 +2,8 @@
 ***This is a personal fork of QWorld Summer School 2021 Repository.
 Original Repository can be found [here](https://gitlab.com/qworld/qeducation/qeducation-coordinators/summer-school-2021)***
 
+#### [Link to YouTube Lectures](https://www.youtube.com/playlist?list=PL5Vz5U367jCT-Xi8-qX7KcThKL-zL1zNs)
+
 Welcome to QWorld Quantum Summer School 2021!
 
 The summer school will be held between July 26 - August 6. The material used in the summer school consists of QWorld's introductory Bronze-Qiskit material on quantum programming and computing and intermediate level tutorial Silver, that focuses on complex numbers, QFT and Shor's Algorithm 
