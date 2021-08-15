@@ -4,7 +4,12 @@ Original Repository can be found [here on GitLab](https://gitlab.com/qworld/qedu
 
 #### [Link to YouTube Lectures](https://www.youtube.com/playlist?list=PL5Vz5U367jCT-Xi8-qX7KcThKL-zL1zNs)
 
-Welcome to QWorld Quantum Summer School 2021!
+### Installation Instruction
+You can install the dependencies, either by:
+1. DO `pip install -r requirements.txt` to install the dependencies. 
+2. You can install anaconda and follow the steps as given in [this pdf](https://github.com/dev-aditya/QWorld_Summer_School_2021/blob/original/Installation.pdf)
+
+# Welcome to QWorld Quantum Summer School 2021!
 
 The summer school will be held between July 26 - August 6. The material used in the summer school consists of QWorld's introductory Bronze-Qiskit material on quantum programming and computing and intermediate level tutorial Silver, that focuses on complex numbers, QFT and Shor's Algorithm 
 
