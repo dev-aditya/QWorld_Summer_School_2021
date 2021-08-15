@@ -11,12 +11,9 @@ You can install the dependencies, either by:
 
 # Welcome to QWorld Quantum Summer School 2021!
 
-The summer school will be held between July 26 - August 6. The material used in the summer school consists of QWorld's introductory Bronze-Qiskit material on quantum programming and computing and intermediate level tutorial Silver, that focuses on complex numbers, QFT and Shor's Algorithm 
+The summer school was held between July 26 - August 6. The material used in the summer school consists of QWorld's introductory Bronze-Qiskit material on quantum programming and computing and intermediate level tutorial Silver, that focuses on complex numbers, QFT and Shor's Algorithm 
 
 You can check the original repositories by visiting [Bronze-Qiskit repository](https://gitlab.com/qworld/bronze-qiskit) and [Silver repository](https://gitlab.com/qworld/silver) to access the original content. 
-
-Bronze commit id: 2a9d76db
-Silver commit id: 15bb0c71
 
 
 ## License
