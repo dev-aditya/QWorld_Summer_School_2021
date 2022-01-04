@@ -6,7 +6,7 @@ Original Repository can be found [here on GitLab](https://gitlab.com/qworld/qedu
 
 ### Installation Instruction
 You can install the dependencies, either by:
-1. DO `pip install -r requirements.txt` to install the dependencies. 
+1. `pip install -r requirements.txt` to install the dependencies. 
 2. You can install anaconda and follow the steps as given in [this pdf](https://github.com/dev-aditya/QWorld_Summer_School_2021/blob/original/Installation.pdf)
 
 # Welcome to QWorld Quantum Summer School 2021!
